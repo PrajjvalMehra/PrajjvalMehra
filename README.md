@@ -41,7 +41,7 @@
 
 
   
-[![PrajjvalMehra's github stats](https://github-readme-stats.vercel.app/api?username=PrajjvalMehra)](https://github.com/PrajjvalMehra/github-readme-stats)
+[![PrajjvalMehra's github stats](https://github-readme-stats.vercel.app/api?username=PrajjvalMehra)](https://github.com/PrajjvalMehra/PrajjvalMehra/blob/main/README.md)
 
  
 
