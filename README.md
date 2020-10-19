@@ -41,6 +41,9 @@
 
 [![PrajjvalMehra's github stats](https://github-readme-stats.vercel.app/api?username=PrajjvalMehra)](https://github.com/PrajjvalMehra/PrajjvalMehra/blob/main/README.md)
 <br>
+<br>
+<br>
+<br>
 [![Most Languags used](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjvalMehra&theme=dark&hide_langs_below=1)](https://github.com/PrajjvalMehra/PrajjvalMehra/blob/main/README.md)
 
 
