@@ -39,12 +39,12 @@
 <br>
 <br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PrajjvalMehra&show_icons=true&hide_border=true" />
+  
+[![PrajjvalMehra's github stats](https://github-readme-stats.vercel.app/api?username=PrajjvalMehra)](https://github.com/PrajjvalMehra/github-readme-stats)
 
-</details>
+ 
+
 
 [twitter]:https://twitter.com/PMehrx
 [linkedin]:https://www.linkedin.com/in/prajjvalmehra/
