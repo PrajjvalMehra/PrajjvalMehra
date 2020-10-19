@@ -1,7 +1,7 @@
 
 ## Fun to see you here!!! 👋
 
-# i am a Gamer , Programmer 
+# I am a Gamer , Programmer 
 
 
 - 🌱 I’m currently learning web applications
